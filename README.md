@@ -49,13 +49,13 @@ nexa-digital-agency/
 └── README.md
 ```
 
-git clone https://github.com/UmerBinKamran/NexaDigital-React
+- git clone https://github.com/UmerBinKamran/NexaDigital-React
 
-cd nexa-digital-agency
+- cd nexa-digital-agency
 
-npm install
+- npm install
 
-npm run dev
+- npm run dev
 
 http://localhost:5173
 
@@ -65,7 +65,7 @@ http://localhost:5173
 
 - Contact form with email support
 
-Animations using Framer Motion
+- Animations using Framer Motion
 
 - SEO optimization
 
