@@ -1,6 +1,6 @@
 import dropline from "../assets/Dropline.PNG";
 import karachiAir from "../assets/Karachi Air.PNG";
-import WeatherApp from "../assets/Weather App.png";
+import WeatherApp from "../assets/Weather App.PNG";
 import attendanceApp from "../assets/Attendance App.PNG";
 import productsShow from "../assets/Products Show Case.PNG";
 import githubProfileFinder from "../assets/Github Profile Finder.PNG";
