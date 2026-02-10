@@ -1,9 +1,9 @@
-import dropline from "../assets/Dropline.png";
-import karachiAir from "../assets/Karachi Air.png";
+import dropline from "../assets/Dropline.PNG";
+import karachiAir from "../assets/Karachi Air.PNG";
 import WeatherApp from "../assets/Weather App.png";
-import attendanceApp from "../assets/Attendance App.png";
-import productsShow from "../assets/Products Show Case.png";
-import githubProfileFinder from "../assets/Github Profile Finder.png";
+import attendanceApp from "../assets/Attendance App.PNG";
+import productsShow from "../assets/Products Show Case.PNG";
+import githubProfileFinder from "../assets/Github Profile Finder.PNG";
 
 function Portfolio() {
   return (
