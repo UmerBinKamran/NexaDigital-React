@@ -25,7 +25,7 @@ function Portfolio() {
             <div className="flex relative rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
               <img
                 alt="gallery"
-                className="w-full h-64 object-cover object-center"
+                className="w-100 h-64 object-cover object-center"
                 src={dropline}
               />
               <div className="px-6 py-6 absolute inset-0 bg-white bg-opacity-90 opacity-0 hover:opacity-90 transition-opacity duration-300 cursor-pointer">
@@ -48,7 +48,7 @@ function Portfolio() {
             <div className="flex relative rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300 ">
               <img
                 alt="gallery"
-                className="w-full h-64 object-cover object-center"
+                className="w-100 h-64 object-cover object-center"
                 src={karachiAir}
               />
               <div className="px-6 py-6 absolute inset-0 bg-white bg-opacity-90 opacity-0 hover:opacity-90 transition-opacity duration-300 cursor-pointer">
@@ -70,7 +70,7 @@ function Portfolio() {
             <div className="flex relative rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
               <img
                 alt="gallery"
-                className="w-full h-64 object-cover object-center"
+                className="w-100 h-64 object-cover object-center"
                 src={WeatherApp}
               />
               <div className="px-6 py-6 absolute inset-0 bg-white bg-opacity-90 opacity-0 hover:opacity-90 transition-opacity duration-300 cursor-pointer">
@@ -93,7 +93,7 @@ function Portfolio() {
             <div className="flex relative rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
               <img
                 alt="gallery"
-                className="w-full h-64 object-cover object-center"
+                className="w-100 h-64 object-cover object-center"
                 src={attendanceApp}
               />
               <div className="px-6 py-6 absolute inset-0 bg-white bg-opacity-90 opacity-0 hover:opacity-90 transition-opacity duration-300 cursor-pointer">
@@ -116,7 +116,7 @@ function Portfolio() {
             <div className="flex relative rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
               <img
                 alt="gallery"
-                className="w-full h-64 object-cover object-center"
+                className="w-100 h-64 object-cover object-center"
                 src={productsShow}
               />
               <div className="px-6 py-6 absolute inset-0 bg-white bg-opacity-90 opacity-0 hover:opacity-90 transition-opacity duration-300 cursor-pointer">
@@ -138,7 +138,7 @@ function Portfolio() {
             <div className="flex relative rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300">
               <img
                 alt="gallery"
-                className="w-full h-64 object-cover object-center"
+                className="w-100 h-64 object-cover object-center"
                 src={githubProfileFinder}
               />
               <div className="px-6 py-6 absolute inset-0 bg-white bg-opacity-90 opacity-0 hover:opacity-90 transition-opacity duration-300 cursor-pointer">
